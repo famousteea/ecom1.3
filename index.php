@@ -6,5 +6,6 @@
             <input type="text" name="fname">
             <input type="submit">
         </form>
+        
     </body>
 </html>
