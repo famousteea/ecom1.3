@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <body>
-        <form method="post" action="result.php">
+        <form method="get" action="result.php">
             name:
             <input type="text" name="fname">
             <input type="submit">

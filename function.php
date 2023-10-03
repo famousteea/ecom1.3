@@ -20,3 +20,9 @@
  }
  return $responses;
 }
+function add_salt($nameToSalt){
+    $salt="unPeuDesel123!";
+    $nameSalt=$salt.$nameToSalt.$salt;
+    return$nameSalt;
+
+}
